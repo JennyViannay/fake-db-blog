@@ -73,12 +73,6 @@
     "about": {
         "name": "Leanne Graham",
         "email": "contact@leanne.graham.com",
-        "phone": "1-770-736-8031 x56442",
-        "address": "1234 Main St",
-        "city": "Westerville",
-        "state": "Ohio",
-        "zip": "02492",
-        "website": "http://leanne.graham.com",
         "avatar": "https://picsum.photos/id/15/300/200",
         "socials": [
             {
